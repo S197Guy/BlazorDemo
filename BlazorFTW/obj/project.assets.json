@@ -425,7 +425,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "5VZl3ZV1+H2PoyH+GGmuPgeo50b+07ycZqvufr5yHnNTpXsA4JzebexyAXpC5d2Tmxnp4HLsN8Hq3ipd5woDzg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -573,32 +573,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\scarr\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MySillyProjects\\BlazorApp2\\BlazorFTW\\BlazorFTW.csproj",
+      "projectUniqueName": "c:\\Users\\Admin\\ScorpioProjects\\BlazorDemo\\BlazorFTW\\BlazorFTW.csproj",
       "projectName": "BlazorFTW",
-      "projectPath": "C:\\MySillyProjects\\BlazorApp2\\BlazorFTW\\BlazorFTW.csproj",
-      "packagesPath": "C:\\Users\\scarr\\.nuget\\packages\\",
-      "outputPath": "C:\\MySillyProjects\\BlazorApp2\\BlazorFTW\\obj\\",
+      "projectPath": "c:\\Users\\Admin\\ScorpioProjects\\BlazorDemo\\BlazorFTW\\BlazorFTW.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Admin\\ScorpioProjects\\BlazorDemo\\BlazorFTW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\scarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://automon.pkgs.visualstudio.com/_packaging/AutoMon/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
